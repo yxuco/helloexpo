@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": "s1",
+      "text": "Suspend newspaper delivery"
+    },
+    {
+      "id": "s2",
+      "text": "Suspend mail delivery"
+    },
+    {
+      "id": "s3",
+      "text": "Mow lawn"
+    },
+    {
+      "id": "s4",
+      "text": "Cancel trash pickup"
+    },
+    {
+      "id": "s5",
+      "text": "Recharge batteries"
+    },
+    {
+      "id": "s6",
+      "text": "Set automatic timers for lights"
+    },
+    {
+      "id": "s7",
+      "text": "Organize travel documents"
+    },
+    {
+      "id": "s8",
+      "text": "Confirm reservations"
+    },
+    {
+      "id": "s9",
+      "text": "Check destination weather forecast"
+    },
+    {
+      "id": "s10",
+      "text": "Prepare packing list"
+    }
+  ]
+}
