@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "helloexpo",
-    "slug": "helloexpo",
+    "slug": "hello",
+    "owner": "yxuco",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
